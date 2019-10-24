@@ -82,7 +82,7 @@ const init = async() =>{
     const descricao = 'vaga para o Fullstack Developer que fez o Fullstack lab'
     //await db.run(`insert into vagas(categoria, titulo, descricao) values(2,'${vaga}' , '${descricao}')`)
 
-}
+} //comment
 init()
 
 
